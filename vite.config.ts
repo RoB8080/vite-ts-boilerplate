@@ -7,6 +7,11 @@ const config: UserConfig = {
         vue(),
         pwa(),
     ],
+    css: {
+        modules: {
+            localsConvention: 'camelCase',
+        },
+    },
     optimizeDeps: {
         include: [],
         exclude: [],
