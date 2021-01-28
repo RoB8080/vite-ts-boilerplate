@@ -12,6 +12,7 @@
     "vue-router": "^4.0.2"
   },
   "devDependencies": {
+    "@rob8080/eslint-config": "^0.1.0",
     "@typescript-eslint/eslint-plugin": "^4.11.1",
     "@typescript-eslint/parser": "^4.11.1",
     "@vitejs/plugin-vue": "^1.0.5",

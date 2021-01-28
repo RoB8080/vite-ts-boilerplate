@@ -889,6 +889,11 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
+"@rob8080/eslint-config@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@rob8080/eslint-config/-/eslint-config-0.1.0.tgz#f05e06768bf1fa89cd2af25d182eda41b7c2575f"
+  integrity sha512-5NftC/PEvEy/73R56UDRXVTQ2g+4fL78huImGUr2V1JYOzn5/o8RH9jMh0MWT93GhGusy1OOYZ+TuOivNg07iw==
+
 "@rollup/plugin-babel@^5.2.0":
   version "5.2.2"
   resolved "https://registry.npm.taobao.org/@rollup/plugin-babel/download/@rollup/plugin-babel-5.2.2.tgz#e5623a01dd8e37e004ba87f2de218c611727d9b2"
