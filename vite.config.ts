@@ -1,8 +1,8 @@
 import vue from '@vitejs/plugin-vue'
 import { VitePWA as pwa } from 'vite-plugin-pwa'
-import { UserConfig } from 'vite'
+import { defineConfig } from 'vite'
 
-const config: UserConfig = {
+const config = defineConfig({
     plugins: [
         vue(),
         pwa(),
@@ -20,6 +20,6 @@ const config: UserConfig = {
         jsxFactory: 'h',
         jsxFragment: 'Fragment',
     },
-}
+})
 
 export default config
