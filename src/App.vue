@@ -7,7 +7,7 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue'
-import Navigator from './components/navigator'
+import Navigator from '@src/components/navigator'
 
 export default defineComponent({
     name: 'App',
