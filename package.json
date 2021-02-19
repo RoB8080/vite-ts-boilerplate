@@ -13,14 +13,14 @@
   },
   "devDependencies": {
     "@rob8080/eslint-config": "^0.1.0",
-    "@typescript-eslint/eslint-plugin": "^4.11.1",
-    "@typescript-eslint/parser": "^4.11.1",
+    "@typescript-eslint/eslint-plugin": "^4.15.1",
+    "@typescript-eslint/parser": "^4.15.1",
     "@vitejs/plugin-vue": "^1.0.5",
-    "@vue/compiler-sfc": "3.0.5",
+    "@vue/compiler-sfc": "^3.0.5",
     "eslint": "^7.16.0",
     "eslint-plugin-vue": "^7.4.0",
     "typescript": "^4.1.3",
-    "vite": "^2.0.0-beta.21",
+    "vite": "^2.0.0",
     "vite-plugin-pwa": "^0.3.0",
     "vue-eslint-parser": "^7.3.0"
   }
